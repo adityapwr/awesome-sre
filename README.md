@@ -266,7 +266,7 @@ Contributions are always welcome!
 - [ ] [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 - [ ] [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
 - [ ] [Monitoring distributed systems](https://www.oreilly.com/ideas/monitoring-distributed-systems)
-- [ ] [Observability at Uber Engineering: Past, Present, Future](https://www.youtube.com/watch?v=2JAnmzVwgP8)
+- [x] [Observability at Uber Engineering: Past, Present, Future](https://www.youtube.com/watch?v=2JAnmzVwgP8)
 - [ ] [The 4 Golden Signals of API Health and Performance in Cloud-Native Applications](https://blog.netsil.com/the-4-golden-signals-of-api-health-and-performance-in-cloud-native-applications-a6e87526e74)
 - [ ] [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
 - [ ] [Time To Detect - Netflix](https://www.youtube.com/watch?v=wsgpV67MLFo)
