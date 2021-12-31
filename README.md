@@ -288,7 +288,7 @@ Contributions are always welcome!
 - [ ] [GitOps Part 3 - Observability](https://www.weave.works/blog/gitops-part-3-observability)
 - [ ] [Want to Debug Latency?](https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7)
 - [ ] [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
-- [ ] [Alerting on SLOs like Pros](https://developers.soundcloud.com/blog/alerting-on-slos)
+- [x] [Alerting on SLOs like Pros](https://developers.soundcloud.com/blog/alerting-on-slos)
 - [ ] [Applied Alerting Philosophy](https://www.youtube.com/watch?v=JhxfZ0VIPP0)
 - [ ] [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
 - [ ] [Deploys: It's Not Actually About Fridays](https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/)
