@@ -282,7 +282,7 @@ Contributions are always welcome!
 - [ ] [Monitoring Your Monitoring’s Monitoring](https://medium.com/@jerub/monitoring-your-monitorings-monitoring-51d479100f4c)
 - [ ] [Observability: the new wave or buzzword?](https://medium.com/@dlite/observability-the-new-wave-or-buzzword-fc23a68abf72)
 - [x] [Monitoring Isn't Observability](https://www.vividcortex.com/blog/monitoring-isnt-observability)
-- [ ] [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e)
+- [x] [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e)
 - [ ] [Principles of Monitoring Microservices](https://www.youtube.com/watch?v=2LNHv0JyBUk)
 - [ ] [The Many Ways Your Monitoring Is Lying to You](https://www.usenix.org/node/197446)
 - [ ] [GitOps Part 3 - Observability](https://www.weave.works/blog/gitops-part-3-observability)
